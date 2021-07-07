@@ -1,49 +1,25 @@
 #ex 1
 =begin
-p "What is your name?"
-name = gets.chomp
-p "Hello #{name}, it is nice to meet you."
+Write a program called name.rb that asks the user to type in their name and then prints out a greeting with their name included.
 =end
-
-
-
-
-
 
 
 
 # ex 2
 =begin
-p "How old are you?"
-age = gets.chomp.to_i
-p " In 10 years you will be:"
-p "#{age + 10}"
-p " In 20 years you will be:"
-p "#{age + 20}"
-p " In 30 years you will be:"
-p "#{age + 30}"
-p " In 40 years you will be:"
-p "#{age + 40}"
+Write a program that asks a user how old they are and then tells them how old they will be in 10, 20, 30 and 40 years.
 =end
 
 
 # ex 3
 =begin
-p "What is your name?"
-name = gets.chomp
-10.times do
-  puts name
-end
+Write a program that asks for the users name and then prints it to the screen 10 times.
 =end
 
 
 # ex 4
 =begin
-p "What is your first name?"
-fname = gets.chomp
-p "What is your last name?"
-lname = gets.chomp
-p "Hello #{fname + " " + lname}  it is nice to meet you."
+Write a program that gets the users first name and then last name and then 
 =end
 
 # ex 5
